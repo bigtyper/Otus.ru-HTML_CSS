@@ -1,0 +1,10 @@
+
+
+.nav_up li {
+    list-style-type: none;
+}
+
+.nav_up hr {
+    width: 50px;
+    color: darkgreen;
+}
